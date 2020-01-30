@@ -1,0 +1,15 @@
+/*CSS Reset*/
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: #fff;
+    text-decoration: none;
+}
+.logo{
+    font-size: 2em;
+    font-weight: 500;
+    color: #fff;
+
+}
